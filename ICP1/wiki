@@ -1,0 +1,25 @@
+Welcome to ICP1 Wiki, This is In Class Program session for CS5542 - BigData and Analytics Applications class. 
+
+Goal of the session:
+1. Download the Data from the following link into your google drive.a.https://umkc.box.com/s/y3niwfccpumnzbkyunwyznngb1xtd7a6
+2.Mount the google drive to Google Colabnotebook and read the data using python Pandas library.
+3.Perform 3 data analysis tasks on the data. 
+4.Create the Github repository.
+5.Save the Colab notebook in your Github repository. 
+
+
+Steps Performed:
+1. Downloaded the file from the link and uploaded to google colab datasets sections
+2. imported some basic libraries like pandas and searborn and started to import and analyze data
+3. Some Data analysis tasks performed are:
+	a. Check the shape of the dataset
+	b. Check if there are any columns with null values only and if yes deleted them
+	c. Simple searborn count plot on diagnosis and check the variance in the dataset.
+	d. Used seaborn heatmap to check if you can find any correlation between the feature columns 
+4. Created a Github public repo called CS5542-Big-Data-Analytics-and-Applications
+5. Saved the Collab file in Github in the newly created public repo.
+
+
+Youtube Link:
+
+	
